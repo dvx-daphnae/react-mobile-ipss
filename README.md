@@ -1,6 +1,6 @@
 # React Native Mobile App - Login & Profile
 
-**Proyecto homologación:** Desarrollo de Aplicaciones Móviles (IPSS)  
+**Proyecto:** Desarrollo de Aplicaciones Móviles (IPSS)  
 **Stack:** React Native + Expo + TypeScript + Expo Router  
 **Repositorio:** https://github.com/dvx-daphnae/react-mobile-ipss
 
