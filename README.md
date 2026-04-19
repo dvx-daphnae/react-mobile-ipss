@@ -3,6 +3,7 @@
 **Proyecto:** Desarrollo de Aplicaciones Móviles (IPSS)  
 **Stack:** React Native + Expo + TypeScript + Expo Router  
 **Repositorio:** https://github.com/dvx-daphnae/react-mobile-ipss
+**Video demostrativo:** [Ver en Loom] https://www.loom.com/share/7ec5991c04334ddeb8b7fa203ed160ae
 
 ---
 
@@ -187,3 +188,4 @@ npx expo start
 ---
 
 **Última actualización:** 18 de abril, 2026
+**Video demostrativo:** [Ver en Loom] https://www.loom.com/share/7ec5991c04334ddeb8b7fa203ed160ae
